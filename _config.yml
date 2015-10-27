@@ -3,7 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 # Site settings
-title: "Reclaim Your Domain"
+title: "Claim Your Domain"
 description: > # this means to ignore newlines until "email:"
    A Hack Education Project
 
